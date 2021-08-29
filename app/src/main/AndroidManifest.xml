@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App_Movil_ws">
         <activity
+            android:name=".Datos_User"
+            android:exported="true" />
+        <activity
             android:name=".Menu"
             android:exported="true" />
         <activity
